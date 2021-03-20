@@ -32,7 +32,6 @@
 	pointer-events: none;
 	border-bottom-color: #ddd;
 	border-width: 15px;
-	border-radius: 10px;
 	left: 50%;
 	margin: -20px 0 0 -15px;
 }
@@ -106,6 +105,7 @@
 
 .og-fullimg img {
 	display: inline-block;
+	border-radius: 10px;
 	max-height: 100%;
 	max-width: 100%;
 }
