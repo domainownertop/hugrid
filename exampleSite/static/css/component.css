@@ -16,6 +16,7 @@
 .og-grid li > a,
 .og-grid li > a img {
 	border: none;
+	border-radius: 25px;
 	outline: none;
 	display: block;
 	position: relative;
@@ -191,5 +192,5 @@
 
 	.og-fullimg { display: none; }
 	.og-details { float: none; width: 100%; }
-	
+
 }
