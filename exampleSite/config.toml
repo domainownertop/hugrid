@@ -20,7 +20,7 @@ publishdir = "public"
     keywords = "nft,memes,meme,medieval memes,wax,atomic market,collectables,collection"
 
     # Body background color
-    bodybgcolor = "#AF601A"
+    bodybgcolor = "#935116"
 
     # Preview container button text
     buttontext = "Buy on Atomic Market"
