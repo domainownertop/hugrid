@@ -1,7 +1,7 @@
 # Site settings
-baseurl = "http://example.org/"
+baseurl = "http://crypto.medievalmemes.co/"
 languageCode = "en-us"
-title = "Hugrid - Grid Theme For Hugo"
+title = "Medieval Memes - Crypto Edition"
 theme = "hugrid"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-XXXXXXXX-Y"
@@ -13,20 +13,17 @@ publishdir = "public"
 
 [params]
     # Meta
-    title = "Hugrid - a simple grid theme for Hugo"
+    title = "Medieval Memes - Crypto Edition"
     subtitle = "A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
-    author = "Pavel Kanyshev"
+
     description = "Hugrid - grid theme for Hugo with an expanding image preview."
-    keywords = "Hugo, Hugo theme, grid theme, portfolio, bookmarks, collection, contacts"
+    keywords = "nft,memes,meme,medieval memes,wax,atomic market,collectables,collection"
 
     # Body background color
-    bodybgcolor = "#943126"
+    bodybgcolor = "#CA6F1E"
 
     # Preview container button text
-    buttontext = "Get the theme"
-
-    # Footer text
-    footertext = "Made by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io) and [me](https://github.com/aerohub)"
+    buttontext = "Buy on Atomic Market"
 
     # add extra-css
     # custom_css = ['css/extra1.css', 'css/extra2.css']
