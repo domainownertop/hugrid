@@ -1,11 +1,10 @@
 # Site settings
-baseurl = "http://crypto.medievalmemes.co/"
+baseurl = "http://www.medievalmemes.co/"
 languageCode = "en-us"
-title = "Medieval Memes - Crypto Edition"
+title = "Medieval Memes"
 theme = "hugrid"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-XXXXXXXX-Y"
-
 contentdir = "content"
 datadir = "data"
 layoutdir = "layouts"
@@ -13,10 +12,9 @@ publishdir = "public"
 
 [params]
     # Meta
-    title = "Medieval Memes - Crypto Edition"
-    subtitle = "A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
-
-    description = "Hugrid - grid theme for Hugo with an expanding image preview."
+    title = "Medieval Memes"
+    subtitle = "Medievalmemes.co is the collector's dream come true. Focused on secondary markets and ultimate scarcity."
+    description = "Medievalmemes.co is the collector's dream come true. Focused on secondary markets and ultimate scarcity."
     keywords = "nft,memes,meme,medieval memes,wax,atomic market,collectables,collection"
 
     # Body background color
