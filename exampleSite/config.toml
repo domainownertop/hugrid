@@ -21,7 +21,7 @@ publishdir = "public"
     bodybgcolor = "#AF601A"
 
     # Preview container button text
-    buttontext = "Buy on Atomic Market"
+    buttontext = "Get your free NFT on Atomic Market"
 
     # add extra-css
     # custom_css = ['css/extra1.css', 'css/extra2.css']
