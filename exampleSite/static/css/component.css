@@ -115,6 +115,7 @@
 	font-size: 52px;
 	padding: 40px 0 10px;
 	margin-bottom: 10px;
+	color: #641E16;
 }
 
 .og-details p {
@@ -127,7 +128,7 @@
 .og-details a {
 	font-weight: 700;
 	font-size: 16px;
-	color: #641E16;
+	color: #333;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	padding: 10px 20px;
